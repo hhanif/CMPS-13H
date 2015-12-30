@@ -1,6 +1,5 @@
 // Haris Hanif
 // Assignment 3
-// ID: 1357292
 
 #include <stdio.h>
 #include <stdbool.h>
